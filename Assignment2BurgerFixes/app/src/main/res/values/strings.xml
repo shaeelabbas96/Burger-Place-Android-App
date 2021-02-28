@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Burger Queen</string>
+    <string-array name="sizes">
+        <item> Small </item>
+        <item> Regular </item>
+        <item> Large </item>
+        <item> Gigantic </item>
+
+    </string-array>
+</resources>
